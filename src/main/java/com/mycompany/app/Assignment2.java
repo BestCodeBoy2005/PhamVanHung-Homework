@@ -1,7 +1,6 @@
-package com.mycompany.app;
 
+//import class number
 public class Assignment2 {
-    public static void main(String[] args) {
         Number n1 = new Number();
         Number n2 = new Number();
         n1.i = 2;
@@ -11,5 +10,5 @@ public class Assignment2 {
         n1.i = 20;// what is n2.i?
         System.out.println(n1.i + " " + n2.i);
         }
-    }
+    
     
